@@ -4,7 +4,7 @@
   * [Block Explorer](#block-explorer)
   * [Communities](#communities)
   * [Contests/Bounties](#contest-bounties)
-  * [Dashboards][#dashboards]
+  * [Dashboards](#dashboards)
   * [Development](#development)
   * [Documents](#documents)
   * [Tutorials](#tutorials)
